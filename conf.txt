@@ -1,0 +1,4 @@
+projectpath: C:\Users\Micha\Desktop\Java-master
+UnnecessaryImport: 3
+AddEmptyString: 2
+EmptyCatchBlock: 1
